@@ -27,6 +27,7 @@ Dataset_csv
 Dataset_json
 
 ## Architecture Diagram
-<img src="architecture.jpeg">
+<img src="dataengineering-YouTube ETL Processing and Analysis-project/architecture.jpeg">
+
 
 
